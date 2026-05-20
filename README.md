@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">I'm Jona from Germany<br><br>- 📚 I'm currently learning Python</h3>
+<h3 align="left">I'm Jona from Germany<br><br>- 📚 I'm currently learning Nothing</h3>
 
 ###
 
